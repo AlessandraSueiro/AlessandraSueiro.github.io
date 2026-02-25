@@ -1,0 +1,24 @@
+ body {font-family: 'Franklin Gothic Medium', sans-serif;
+    background-color:rgb(210, 254, 255);}
+    h1 {color:rgb(0, 0, 0);
+    background-color: rgb(145, 204, 245);
+    padding: 20px;;}
+
+    p {padding-left: 20px;
+       padding-right: 20px;
+      margin: 1.5rem;}
+      address {margin: 2rem}
+       h2 {margin: 1.5rem;
+   margin-top: 0;
+   background-color:  rgb(225, 223, 223);
+   font-family:'Franklin Gothic Medium';
+color: rgb(72, 132, 253);}
+         h3 {margin:1rem;
+            font-family: 'sans-serif';
+            color: black;}
+    hr{border:2px dashed rgb(141, 140, 153);}
+    main { border: 1px dotted rgb(141, 140, 153);
+      font-family: 'sans-serif';
+    margin: 1rem;
+margin-top: 0;
+background-color:rgb(210, 254, 255);}
