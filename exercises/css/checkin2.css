@@ -1,0 +1,49 @@
+body {background-color: #ffffe0;}
+h1 {background-color: #6e361a;
+color: #fff3dd;
+padding:20px;
+font-family: "Quintessential",serif;
+font-size: 40px;}
+p {background-color: #bd6b79;
+    color: #3a2c25;
+    border-radius: 2rem;
+    padding-left: 25px;
+margin: 2rem;
+line-height: 1.5;}
+address {padding-left: 20px;}
+h2 {background-color: #cabaa2;
+    border-style:inset;
+border-color: #6e361a;
+border-width: 3px;
+margin-left: 2rem;
+padding: .7rem;}
+img{width: 380px;
+   max-width: 100% ;
+border-radius: 1rem;
+box-shadow: 0 15px 13px #3a2c25;
+margin-bottom: 20px;}
+ol{background:#cabaa2;
+color: #2d170b;
+padding: 20px;
+border-radius:1.5rem;}
+ol li{background:#ecead5;
+border-radius:1rem;
+font-size: 17px;
+font-family:"Gill Sans", 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+figcaption{padding: .5rem;
+background-color: #7a4931;
+color:#ecead5;}
+a{color: #ecead5;}
+a:link {color:#fff3dd;
+text-decoration: none;}
+
+a:visited {color:#faf7be;
+text-decoration: underline solid black;}
+a:hover {color:#fedbe0;
+text-decoration: underline;}
+a:active {color:#e393a0;
+text-decoration: none;}
+ul{background-color: #e9e6ae;}
+ul li {background-color: #b2a38b;}
+hr {border:8px dashed #563220;}
+
