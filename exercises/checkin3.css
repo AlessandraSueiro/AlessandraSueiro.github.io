@@ -19,16 +19,13 @@ grid-row: 3/4;}
     background-color: #fd91d4;
 grid-column: 1/2;
 grid-row: 3/4;}
-.img1{display: grid;
-grid-column: 3/5;
+.img1{grid-column: 3/6;
 grid-row: 2/3;}
 .img2{
-    display:grid;
     grid-column: 2/4;
 grid-row: 3/4;
 }
 img{
-    display:block;
     width: 100%;
 height:100%;
 object-fit: cover;}
