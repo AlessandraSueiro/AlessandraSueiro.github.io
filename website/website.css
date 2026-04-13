@@ -1,0 +1,31 @@
+/*HomePage CSS Starts Here*/
+.homewrapper{ display: grid;
+    grid-template-rows: 100px 400px 100px;
+    grid-template-columns: 1fr 1fr;
+    min-height: 100vh;
+    border: solid 3px hotpink;}
+    .nav ul{display: flex;
+    justify-content: center;
+background-color: black;
+padding: 25px;
+margin: 0;
+flex-wrap: wrap;}
+nav{grid-column: 1/4;
+grid-row: 1/2;}
+    aside{grid-column: 1/2;
+    grid-row: 2/3;
+background-color: blue;}
+    .rightside{grid-column: 2/3;
+        grid-row: 2/3;
+background-color: aqua;}
+footer{grid-column: 1/4;
+grid-row: 3/4;}
+/*Resume CSS Starts Here*/
+.resumewrapper{ display: grid;
+    grid-template-rows: 100px 400px 100px;
+    grid-template-columns: 20% 80%;
+    min-height: 100vh;
+    border: solid 3px hotpink;}
+    .rcontainer{grid-column: 2/3;
+    grid-row: 2/3;}
+/*Portfolio*/
