@@ -1,0 +1,24 @@
+/*CSS Animation*/
+.animation{background-color: pink;
+width: 100px;
+height:100px;
+animation-name: myAnimation;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+animation-direction: alternate;}
+@keyframes myAnimation{from{background-color: pink;}
+to{background-color:lightgreen;}}
+
+/*Image Modal*/
+.gallery{display:flex;
+flex-wrap: wrap;
+justify-content: flex-start;
+padding: 0 15px;}
+.gallery-item:hover{transform: scale(1.1);}
+.gallery-item{transition: transform 0.5s ease;}
+img{border: 2px black dashed;}
+
+/*Position Offsets*/
+.topright{position: absolute;
+top: 10px;
+right: 20px;}
